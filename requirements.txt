@@ -5,3 +5,9 @@ scipy
 pandas
 numdifftools~=0.9.40
 SALib~=1.4.5
+einops
+glob2
+lightning
+torch
+tqdm
+PyYAML
